@@ -115,9 +115,9 @@ set smartcase
 set guifont=Menlo:h14
 "set lines=24 columns=90
 
-colorscheme librae
+#colorscheme librae
 " 使用自带配色
-"colorscheme desert
+colorscheme desert
 set background=dark
 
 " 在状态栏显示正在输入的命令
